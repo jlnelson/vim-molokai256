@@ -147,7 +147,7 @@ elseif has("gui_running") || (&t_Co == 256 && (&term ==# "xterm" || &term =~# "^
     CSAHi Function term=NONE cterm=NONE ctermbg=bg ctermfg=149 gui=NONE guibg=bg guifg=#A6E22E
     CSAHi Conditional term=NONE cterm=bold ctermbg=bg ctermfg=204 gui=bold guibg=bg guifg=#F92672
     CSAHi Repeat term=NONE cterm=bold ctermbg=bg ctermfg=204 gui=bold guibg=bg guifg=#F92672
-    CSAHi Label term=NONE cterm=NONE ctermbg=bg ctermfg=222 gui=NONE guibg=bg guifg=#E6DB74
+    CSAHi Label term=NONE cterm=NONE ctermbg=bg ctermfg=70 gui=NONE guibg=bg guifg=#E6DB74
     CSAHi Operator term=NONE cterm=NONE ctermbg=bg ctermfg=204 gui=NONE guibg=bg guifg=#F92672
     CSAHi Keyword term=NONE cterm=bold ctermbg=bg ctermfg=204 gui=bold guibg=bg guifg=#F92672
     CSAHi Exception term=NONE cterm=bold ctermbg=bg ctermfg=149 gui=bold guibg=bg guifg=#A6E22E
@@ -433,7 +433,7 @@ elseif has("gui_running") || (&t_Co == 256 && (&term ==# "xterm" || &term =~# "^
     CSAHi Function term=NONE cterm=NONE ctermbg=bg ctermfg=191 gui=NONE guibg=bg guifg=#A6E22E
     CSAHi Conditional term=NONE cterm=bold ctermbg=bg ctermfg=205 gui=bold guibg=bg guifg=#F92672
     CSAHi Repeat term=NONE cterm=bold ctermbg=bg ctermfg=205 gui=bold guibg=bg guifg=#F92672
-    CSAHi Label term=NONE cterm=NONE ctermbg=bg ctermfg=229 gui=NONE guibg=bg guifg=#E6DB74
+    CSAHi Label term=NONE cterm=NONE ctermbg=bg ctermfg=70 gui=NONE guibg=bg guifg=#E6DB74
     CSAHi Operator term=NONE cterm=NONE ctermbg=bg ctermfg=205 gui=NONE guibg=bg guifg=#F92672
     CSAHi Keyword term=NONE cterm=bold ctermbg=bg ctermfg=205 gui=bold guibg=bg guifg=#F92672
     CSAHi Exception term=NONE cterm=bold ctermbg=bg ctermfg=191 gui=bold guibg=bg guifg=#A6E22E
@@ -719,7 +719,7 @@ elseif has("gui_running") || &t_Co == 256
     CSAHi Function term=NONE cterm=NONE ctermbg=bg ctermfg=148 gui=NONE guibg=bg guifg=#A6E22E
     CSAHi Conditional term=NONE cterm=bold ctermbg=bg ctermfg=197 gui=bold guibg=bg guifg=#F92672
     CSAHi Repeat term=NONE cterm=bold ctermbg=bg ctermfg=197 gui=bold guibg=bg guifg=#F92672
-    CSAHi Label term=NONE cterm=NONE ctermbg=bg ctermfg=186 gui=NONE guibg=bg guifg=#E6DB74
+    CSAHi Label term=NONE cterm=NONE ctermbg=bg ctermfg=70 gui=NONE guibg=bg guifg=#E6DB74
     CSAHi Operator term=NONE cterm=NONE ctermbg=bg ctermfg=197 gui=NONE guibg=bg guifg=#F92672
     CSAHi Keyword term=NONE cterm=bold ctermbg=bg ctermfg=197 gui=bold guibg=bg guifg=#F92672
     CSAHi Exception term=NONE cterm=bold ctermbg=bg ctermfg=148 gui=bold guibg=bg guifg=#A6E22E
